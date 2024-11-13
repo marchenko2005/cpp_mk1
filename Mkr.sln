@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{24B1CE2B-0FC8-4098-B9D1-81511ACDC09A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mk1", "mk1\mk1.csproj", "{DE340A60-1073-4FBA-BC9E-799125B20645}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{6BD4E505-E79F-4A10-B41A-C12B24F43258}"
 EndProject
 Global
